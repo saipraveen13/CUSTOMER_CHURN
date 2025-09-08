@@ -26,4 +26,16 @@ The project is deployed using **Flask**, with a **frontend built in HTML + CSS**
    - Prediction result with fade-in effect
 
 ## 📂 File Structure
+customer-churn/
+│── app.py # Flask app for deployment
+│── train.py # Model training script
+│── churn_model.pkl # Trained Logistic Regression model
+│── encoders.pkl # Encoders for categorical variables
+│── feature_order.pkl # Feature order for consistent prediction
+│── Telco-Customer-Churn.csv # Dataset
+│── templates/
+│ └── index.html # Frontend form
+│── static/
+│ └── style.css # Styling + animations
+│── README.md # Project documentation
 
