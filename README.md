@@ -16,6 +16,8 @@ This project is a **Machine Learning model** that predicts whether a customer wi
   - 📞 Services (Internet, Phone, Streaming, etc.)  
 - Target Variable: **Churn (Yes/No)**  
 
+
+
 ## 🛠️ Tech Stack  
 - **Python**  
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
